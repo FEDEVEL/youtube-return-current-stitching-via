@@ -1,0 +1,45 @@
+<!DOCTYPE Technology>
+<Lpp_List>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="49151" line="0" protect="0" layer="board" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="15654274" line="0" protect="0" layer="bottom_overlay" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="9419919" line="0" protect="0" layer="bottom_paste" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="4620980" line="0" protect="0" layer="bottom_solder" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="16776960" line="0" protect="0" layer="comp_pkg_bottom" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="49152" line="0" protect="0" layer="comp_pkg_pad" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="16711680" line="0" protect="0" layer="comp_pkg_top" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="16766720" line="0" protect="0" layer="dielectric_10" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="10824234" line="0" protect="0" layer="dielectric_11" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="4734347" line="0" protect="0" layer="dielectric_1" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="5597999" line="0" protect="0" layer="dielectric_2" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="11674146" line="0" protect="0" layer="dielectric_3" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="11546720" line="0" protect="0" layer="dielectric_4" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="15794160" line="0" protect="0" layer="dielectric_5" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="8900346" line="0" protect="0" layer="dielectric_6" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="11393254" line="0" protect="0" layer="dielectric_7" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="10025880" line="0" protect="0" layer="dielectric_8" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="14381203" line="0" protect="0" layer="dielectric_9" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="16738740" line="0" protect="0" layer="drill" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="3050327" line="0" protect="0" layer="drill_drawing" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="1644912" line="0" protect="0" layer="drill_guide" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="10506797" line="0" protect="0" layer="keep-out_layer" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="3100495" line="0" protect="0" layer="l10" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="9127187" line="0" protect="0" layer="l11" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="16775885" line="0" protect="0" layer="l12" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="25600" line="0" protect="0" layer="l1" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="13458524" line="0" protect="0" layer="l2" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="16716947" line="0" protect="0" layer="l3" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="16444375" line="0" protect="0" layer="l4" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="2003199" line="0" protect="0" layer="l5" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="9419919" line="0" protect="0" layer="l6" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="15787660" line="0" protect="0" layer="l7" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="13789470" line="0" protect="0" layer="l8" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="16711680" line="0" protect="0" layer="l9" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="16777200" line="0" protect="0" layer="mechanical_1" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="16761035" line="0" protect="0" layer="mechanical_29" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="16777184" line="0" protect="0" layer="multi-layer" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="10824234" line="0" protect="0" layer="silk_screen2" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="6970061" line="0" protect="0" layer="silk_screen" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="65535" line="0" protect="0" layer="top_overlay" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="255" line="0" protect="0" layer="top_paste" alpha="105" fill="18"/>
+    <LPP purpose="drawing" mode="2" visible="1" rgb="16711935" line="0" protect="0" layer="top_solder" alpha="105" fill="18"/>
+</Lpp_List>

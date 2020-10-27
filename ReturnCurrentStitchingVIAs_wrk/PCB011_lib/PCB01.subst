@@ -1,0 +1,49 @@
+<!DOCTYPE Substrate>
+<SubstrateModel>
+    <stack BAL_NUM="0" BAL_TYPE="NONE" PURPOSE_TREATMENT="USE_ALL_EXCEPT_SPECIFIED" SPECIFIED_PURPOSES="">
+        <material BAL_NUM="0" materialname="AIR" BAL_TYPE="INHERIT"/>
+        <interface thickunit="micron" BAL_NUM="0" thick="" materialname="" BAL_TYPE="INHERIT"/>
+        <material thickunit="micron" BAL_NUM="0" thick="67.31" materialname="GE_Getek" BAL_TYPE="INHERIT"/>
+        <interface thickunit="micron" BAL_NUM="0" thick="" materialname="" BAL_TYPE="INHERIT"/>
+        <material thickunit="micron" BAL_NUM="0" thick="80.77" materialname="Isola_GigaVer210" BAL_TYPE="INHERIT"/>
+        <interface thickunit="micron" BAL_NUM="0" thick="" materialname="" BAL_TYPE="INHERIT"/>
+        <material thickunit="micron" BAL_NUM="0" thick="219.46" materialname="FR_5" BAL_TYPE="INHERIT"/>
+        <interface thickunit="micron" BAL_NUM="0" thick="" materialname="" BAL_TYPE="INHERIT"/>
+        <material thickunit="micron" BAL_NUM="0" thick="101.60" materialname="Epoxy_E_Fiberglass" BAL_TYPE="INHERIT"/>
+        <interface thickunit="micron" BAL_NUM="0" thick="" materialname="" BAL_TYPE="INHERIT"/>
+        <material thickunit="micron" BAL_NUM="0" thick="107.44" materialname="Epoxy_E_Fiberglass" BAL_TYPE="INHERIT"/>
+        <interface thickunit="micron" BAL_NUM="0" thick="" materialname="" BAL_TYPE="INHERIT"/>
+        <material thickunit="micron" BAL_NUM="0" thick="76.20" materialname="Epoxy_E_Fiberglass" BAL_TYPE="INHERIT"/>
+        <interface thickunit="micron" BAL_NUM="0" thick="" materialname="" BAL_TYPE="INHERIT"/>
+        <material thickunit="micron" BAL_NUM="0" thick="105.16" materialname="Epoxy_E_Fiberglass" BAL_TYPE="INHERIT"/>
+        <interface thickunit="micron" BAL_NUM="0" thick="" materialname="" BAL_TYPE="INHERIT"/>
+        <material thickunit="micron" BAL_NUM="0" thick="101.60" materialname="Epoxy_E_Fiberglass" BAL_TYPE="INHERIT"/>
+        <interface thickunit="micron" BAL_NUM="0" thick="" materialname="" BAL_TYPE="INHERIT"/>
+        <material thickunit="micron" BAL_NUM="0" thick="219.46" materialname="FR_5" BAL_TYPE="INHERIT"/>
+        <interface thickunit="micron" BAL_NUM="0" thick="" materialname="" BAL_TYPE="INHERIT"/>
+        <material thickunit="micron" BAL_NUM="0" thick="80.77" materialname="Isola_GigaVer210" BAL_TYPE="INHERIT"/>
+        <interface thickunit="micron" BAL_NUM="0" thick="" materialname="" BAL_TYPE="INHERIT"/>
+        <material thickunit="micron" BAL_NUM="0" thick="66.8" materialname="GE_Getek" BAL_TYPE="INHERIT"/>
+        <interface thickunit="micron" BAL_NUM="0" thick="" materialname="" BAL_TYPE="INHERIT"/>
+        <material BAL_NUM="0" materialname="AIR" BAL_TYPE="INHERIT"/>
+    </stack>
+    <layers>
+        <layer layer="1017" subtype="0" thickunit="micron" negative="0" pinsOnly="0" sheet="0" index="0" thick="-38.15" processRole="1" expand="0" materialname="Copper" bottomrough="" toprough="" angle="90" precedence="0"/>
+        <layer layer="1016" subtype="0" thickunit="micron" negative="0" pinsOnly="0" sheet="0" index="1" thick="-38.15" processRole="1" expand="1" materialname="Copper" bottomrough="" toprough="" angle="90" precedence="0"/>
+        <layer layer="1015" subtype="0" thickunit="micron" negative="0" pinsOnly="0" sheet="0" index="2" thick="-35.37" processRole="1" expand="1" materialname="Copper" bottomrough="" toprough="" angle="90" precedence="0"/>
+        <layer layer="1014" subtype="0" thickunit="micron" negative="0" pinsOnly="0" sheet="0" index="3" thick="-34.80" processRole="1" expand="1" materialname="Copper" bottomrough="" toprough="" angle="90" precedence="0"/>
+        <layer layer="1013" subtype="0" thickunit="micron" negative="0" pinsOnly="0" sheet="0" index="4" thick="-17.40" processRole="1" expand="1" materialname="Copper" bottomrough="" toprough="" angle="90" precedence="0"/>
+        <layer layer="1012" subtype="0" thickunit="micron" negative="0" pinsOnly="0" sheet="0" index="5" thick="-34.80" processRole="1" expand="1" materialname="Copper" bottomrough="" toprough="" angle="90" precedence="0"/>
+        <layer layer="1011" subtype="0" thickunit="micron" negative="0" pinsOnly="0" sheet="0" index="6" thick="34.80" processRole="1" expand="1" materialname="Copper" bottomrough="" toprough="" angle="90" precedence="0"/>
+        <layer layer="1010" subtype="0" thickunit="micron" negative="0" pinsOnly="0" sheet="0" index="7" thick="17.40" processRole="1" expand="1" materialname="Copper" bottomrough="" toprough="" angle="90" precedence="0"/>
+        <layer layer="1009" subtype="0" thickunit="micron" negative="0" pinsOnly="0" sheet="0" index="8" thick="34.8" processRole="1" expand="1" materialname="Copper" bottomrough="" toprough="" angle="90" precedence="0"/>
+        <layer layer="1008" subtype="0" thickunit="micron" negative="0" pinsOnly="0" sheet="0" index="9" thick="35.37" processRole="1" expand="1" materialname="Copper" bottomrough="" toprough="" angle="90" precedence="0"/>
+        <layer layer="1007" subtype="0" thickunit="micron" negative="0" pinsOnly="0" sheet="0" index="10" thick="38.15" processRole="1" expand="1" materialname="Copper" bottomrough="" toprough="" angle="90" precedence="0"/>
+        <layer layer="1006" subtype="0" thickunit="micron" negative="0" pinsOnly="0" sheet="0" index="11" thick="38.15" processRole="1" expand="0" materialname="Copper" bottomrough="" toprough="" angle="90" precedence="0"/>
+    </layers>
+    <vias>
+        <via layer="1021" subtype="0" rough="" index2="11" index1="0" platingdielectricmaterial="" platingthickness="" platingthicknessunit="micron" processRole="4" materialname="Copper" precedence="0" platingenabled="0"/>
+        <via layer="1022" subtype="0" rough="" index2="11" index1="0" platingdielectricmaterial="" platingthickness="" platingthicknessunit="micron" processRole="4" materialname="Copper" precedence="0" platingenabled="0"/>
+    </vias>
+    <substrates/>
+</SubstrateModel>

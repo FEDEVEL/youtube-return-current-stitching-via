@@ -1,0 +1,39 @@
+INCLUDE $HPEESOF_DIR/oalibs/analog_rf.defs
+DEFINE ReturnCurrentStitchingVIAs_lib ReturnCurrentStitchingVIAs_lib
+ASSIGN ReturnCurrentStitchingVIAs_lib libMode shared
+DEFINE PCB01_lib PCB01_lib
+ASSIGN PCB01_lib libMode shared
+DEFINE PCB011_lib PCB011_lib
+ASSIGN PCB011_lib libMode shared
+DEFINE PCB02_lib PCB02_lib
+ASSIGN PCB02_lib libMode shared
+DEFINE PCB03_lib PCB03_lib
+ASSIGN PCB03_lib libMode shared
+DEFINE PCB04_lib PCB04_lib
+ASSIGN PCB04_lib libMode shared
+DEFINE PCB041_lib PCB041_lib
+ASSIGN PCB041_lib libMode shared
+DEFINE PCB042_lib PCB042_lib
+ASSIGN PCB042_lib libMode shared
+DEFINE PCB05_lib PCB05_lib
+ASSIGN PCB05_lib libMode shared
+DEFINE PCB051_lib PCB051_lib
+ASSIGN PCB051_lib libMode shared
+DEFINE PCB052_lib PCB052_lib
+ASSIGN PCB052_lib libMode shared
+DEFINE PCB053_lib PCB053_lib
+ASSIGN PCB053_lib libMode shared
+DEFINE PCB06_lib PCB06_lib
+ASSIGN PCB06_lib libMode shared
+DEFINE PCB07_lib PCB07_lib
+ASSIGN PCB07_lib libMode shared
+DEFINE PCB08_lib PCB08_lib
+ASSIGN PCB08_lib libMode shared
+DEFINE PCB081_lib PCB081_lib
+ASSIGN PCB081_lib libMode shared
+DEFINE PCB09_lib PCB09_lib
+ASSIGN PCB09_lib libMode shared
+DEFINE PCB10_lib PCB10_lib
+ASSIGN PCB10_lib libMode shared
+DEFINE PCB11_lib PCB11_lib
+ASSIGN PCB11_lib libMode shared

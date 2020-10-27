@@ -1,0 +1,21 @@
+Tue Oct 13 13:54:39 2020
+Reading ODB file "E:/Github/youtube-return-current-stitching-via/Return Current - Stitching VIA/Project Outputs for Return Current - Stitching VIA/ODB/PCB11.zip".
+
+Warnings occurred during ODB file load:
+
+File not found at : E:/Github/youtube-return-current-stitching-via/Return Current - Stitching VIA/Project Outputs for Return Current - Stitching VIA/ODB\PCB11\odb\steps\pcb\layers\comp_+_bot\components
+File not found at : E:/Github/youtube-return-current-stitching-via/Return Current - Stitching VIA/Project Outputs for Return Current - Stitching VIA/ODB\PCB11\odb\steps\pcb\layers\comp_+_bot\components
+File not found at : E:/Github/youtube-return-current-stitching-via/Return Current - Stitching VIA/Project Outputs for Return Current - Stitching VIA/ODB\PCB11\odb\steps\pcb\layers\comp_+_bot\components
+
+*** NOTE ABOUT SUBSTRATE ! *******************************************
+
+Substrate file 'PCB11.stack' and materials file 'materials.matdb'
+are created at E:/Github/youtube-return-current-stitching-via/ReturnCurrentStitchingVIAs_wrk/PCB11_lib.
+
+Layers of type DOCUMENT are not added in layer stackup.
+Substrate information such as layer thickness and dielectric value has been set
+to default values. This can be edited in 
+Substrate Editor (Technology > Material Definitions...).
+**********************************************************************
+
+Import Complete

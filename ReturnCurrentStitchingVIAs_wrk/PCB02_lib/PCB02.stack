@@ -1,0 +1,35 @@
+<!DOCTYPE Stack>
+<StackModel>
+    <stack>
+        <material loss_tangent="" materialname="FR_4_Prepreg" thickunit="mil" negative="0" default="0" dielectric_constant="" thick="2.6299"/>
+        <material loss_tangent="" materialname="FR_4_Core" thickunit="mil" negative="0" default="0" dielectric_constant="" thick="3.1799"/>
+        <material loss_tangent="" materialname="FR_4_Prepreg" thickunit="mil" negative="0" default="0" dielectric_constant="" thick="8.6402"/>
+        <material loss_tangent="" materialname="FR_4_Core" thickunit="mil" negative="0" default="0" dielectric_constant="" thick="4"/>
+        <material loss_tangent="" materialname="FR_4_Prepreg" thickunit="mil" negative="0" default="0" dielectric_constant="" thick="4.1402"/>
+        <material loss_tangent="" materialname="FR_4_Core" thickunit="mil" negative="0" default="0" dielectric_constant="" thick="3"/>
+        <material loss_tangent="" materialname="FR_4_Prepreg" thickunit="mil" negative="0" default="0" dielectric_constant="" thick="4.1402"/>
+        <material loss_tangent="" materialname="FR_4_Core" thickunit="mil" negative="0" default="0" dielectric_constant="" thick="4"/>
+        <material loss_tangent="" materialname="FR_4_Prepreg" thickunit="mil" negative="0" default="0" dielectric_constant="" thick="8.6402"/>
+        <material loss_tangent="" materialname="FR_4_Core" thickunit="mil" negative="0" default="0" dielectric_constant="" thick="3.1799"/>
+        <material loss_tangent="" materialname="FR_4_Prepreg" thickunit="mil" negative="0" default="0" dielectric_constant="" thick="2.6299"/>
+        <material loss_tangent="" materialname="FR_4_Core" thickunit="mil" negative="0" default="0" dielectric_constant="" thick="0.8"/>
+    </stack>
+    <layers>
+        <layer thickunit="mil" layername="l1" negative="0" index="11" default="0" thick="1.3389077952" layer="1006"/>
+        <layer thickunit="mil" layername="l2" negative="0" index="10" default="0" thick="1.3389077952" layer="1007"/>
+        <layer thickunit="mil" layername="l3" negative="0" index="9" default="0" thick="1.3389077952" layer="1008"/>
+        <layer thickunit="mil" layername="l4" negative="0" index="8" default="0" thick="1331.2112191536" layer="1009"/>
+        <layer thickunit="mil" layername="l5" negative="0" index="7" default="0" thick="0.6694538976000001" layer="1010"/>
+        <layer thickunit="mil" layername="l6" negative="0" index="6" default="0" thick="1.3312319181" layer="1011"/>
+        <layer thickunit="mil" layername="l7" negative="0" index="5" default="0" thick="1.3312319181" layer="1012"/>
+        <layer thickunit="mil" layername="l8" negative="0" index="4" default="0" thick="0.6694538976000001" layer="1013"/>
+        <layer thickunit="mil" layername="l9" negative="0" index="3" default="0" thick="1331.2112191536" layer="1014"/>
+        <layer thickunit="mil" layername="l10" negative="0" index="2" default="0" thick="1.3389077952" layer="1015"/>
+        <layer thickunit="mil" layername="l11" negative="0" index="1" default="0" thick="1.3389077952" layer="1016"/>
+        <layer thickunit="mil" layername="l12" negative="0" index="0" default="0" thick="1.3389077952" layer="1017"/>
+    </layers>
+    <vias>
+        <via materialname="Copper" rough="" index1="11" subtype="0" index2="0" layer="1021" precedence="0"/>
+        <via materialname="Copper" rough="" index1="11" subtype="0" index2="0" layer="1022" precedence="0"/>
+    </vias>
+</StackModel>

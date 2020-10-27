@@ -1,0 +1,14 @@
+<!DOCTYPE Materials>
+<Materials>
+    <Conductors>
+        <Conductor heat_capacity="" thermal_conductivity_in_z="" parmtype="1" imag="" mur_real="1" real="5.87e+07 Siemens/m" tc2="" mur_imag="" name="Copper" electron_path="" tnom="" thermal_conductivity="" tc1=""/>
+    </Conductors>
+    <Dielectrics>
+        <Dielectric heat_capacity="" loss_type="1" thermal_conductivity_in_z="" er_loss="0.015" er_real="4.2" er_imag="" mur_real="1" mur_imag="" name="Epoxy_E_Fiberglass" electron_path="" valuefreq="1 GHz" highfreq="1 THz" thermal_conductivity="" lowfreq="1 KHz"/>
+        <Dielectric heat_capacity="" loss_type="1" thermal_conductivity_in_z="" er_loss="0.01" er_real="4.5" er_imag="" mur_real="1" mur_imag="" name="FR_5" electron_path="" valuefreq="1 GHz" highfreq="1 THz" thermal_conductivity="" lowfreq="1 KHz"/>
+        <Dielectric heat_capacity="" loss_type="1" thermal_conductivity_in_z="" er_loss="0.01" er_real="4.0" er_imag="" mur_real="1" mur_imag="" name="GE_Getek" electron_path="" valuefreq="10.0 GHz" highfreq="1 THz" thermal_conductivity="" lowfreq="1 KHz"/>
+        <Dielectric heat_capacity="" loss_type="1" thermal_conductivity_in_z="" er_loss="0.01" er_real="3.7" er_imag="" mur_real="1" mur_imag="" name="Isola_GigaVer210" electron_path="" valuefreq="10.0 GHz" highfreq="1 THz" thermal_conductivity="" lowfreq="1 KHz"/>
+    </Dielectrics>
+    <Semiconductors/>
+    <roughness/>
+</Materials>
